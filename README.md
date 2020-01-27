@@ -1,2 +1,2 @@
 # arcinfo-issues
-Issue Tracker for arcinfo
+Issue Tracker for [ARCINFO](https://arcinfo.eatsteak.xyz)
